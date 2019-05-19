@@ -1,0 +1,21 @@
+export default {
+    HOME_TAB: "Home",
+    SEARCH_TAB: "Search city",
+    WEATHER_IN_YOUR_CITY_TITLE: "The weather in your city",
+    YOUR_SELECTED_CITIES: "Your selected cities",
+    YOUVE_NOT_ADDED_ANY_CITIES: "You've not added any cities",
+    FROM: "from",
+    TO: "to",
+    CLOUDS: "clouds",
+    HPA: "hpa",
+    WIND: "wind",
+    GEOLOCATION: "geolocation",
+    OPEN_ON_THE_MAP: "Open in the map",
+    ADD: "Add",
+    REMOVE: "Remove",
+    LETS_FIND_YOUR_PLACE: "Let's find your place...",
+    WRITE_TO_SEARCH: "Write something to the search field please",
+    COUDNT_FIND: "Sorry we couldn't find any matches for this request",
+    NETWORK_ERROR_MESSAGE: "Looks like something went wrong with your internet contection. Please check.",
+    UNKNOWN_ERROR_MESSAGE: "Unknown error. Try to reload the page."
+};

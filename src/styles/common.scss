@@ -1,0 +1,13 @@
+@import './colors.scss';
+
+.button_common {
+    color: $white;
+    background-color: $light_blue;
+    padding: .5em 2em;
+    outline: none;
+    
+    &:hover {
+        background-color: $sky;
+    }
+}
+
